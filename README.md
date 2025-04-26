@@ -71,10 +71,6 @@ git clone https://github.com/your-username/data-science-projects.git
 At this time, I am not accepting external contributions as this is a personal learning portfolio.  
 However, feedback and suggestions are always welcome — feel free to open an issue or reach out!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ---
 
 **Thank you for visiting!**  
