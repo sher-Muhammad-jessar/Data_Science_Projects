@@ -54,8 +54,19 @@ The dataset used is a curated IMDB dataset covering movies released between 2006
 
 *(Dataset is pre-included in the notebook or should be uploaded separately if needed.)*
 
-## ⚙️ How to Run
+## 🎯 Future Improvements
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+- **Add Machine Learning Predictions**:  
+  Implement machine learning models to predict movie success based on historical data (e.g., predict movie ratings or revenue).
+
+- **Expand the Dataset**:  
+  Extend the dataset to include movies released after 2016, providing a more recent view of the trends.
+
+- **Interactive Dashboards**:  
+  Create interactive dashboards using Plotly or Dash to visualize the data in a more dynamic and user-friendly way.
+
+## 🙌 Acknowledgements
+
+- **IMDB**: For providing movie data.
+- **Inspiration**: From public datasets and data science community notebooks, which helped guide the analysis and visualization process.
+
