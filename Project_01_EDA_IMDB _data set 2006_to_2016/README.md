@@ -52,8 +52,6 @@ The dataset used is a curated IMDB dataset covering movies released between 2006
 - Runtime
 - Release Year
 
-*(Dataset is pre-included in the notebook or should be uploaded separately if needed.)*
-
 ## 🎯 Future Improvements
 
 - **Add Machine Learning Predictions**:  
