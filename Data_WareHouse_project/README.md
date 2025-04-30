@@ -82,20 +82,20 @@ The function \`predict_case_counts(disease_name='Flu')\`:
 ---
 
 ## 🧾 Sample Output
-✅ Connected to database successfully!
-📊 Predicting future disease cases using Linear Regression...
+-✅ Connected to database successfully!
+-📊 Predicting future disease cases using Linear Regression...
 
-Enter Disease Name: Dengue
+-Enter Disease Name: Dengue
 
-Predicted case counts for the next 6 months:
-2025-05: 135 cases
-2025-06: 145 cases
-2025-07: 154 cases
-2025-08: 162 cases
-2025-09: 170 cases
-2025-10: 178 cases
+-Predicted case counts for the next 6 months:
+-2025-05: 135 cases
+-2025-06: 145 cases
+-2025-07: 154 cases
+-2025-08: 162 cases
+-2025-09: 170 cases
+-2025-10: 178 cases
 
-📉 Plot generated successfully!
+-📉 Plot generated successfully!
 
 
 
