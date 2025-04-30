@@ -9,13 +9,11 @@ This project is a complete ETL (Extract, Transform, Load) pipeline integrated wi
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Data Flow](#data-flow)
-- [Setup Instructions](#setup-instructions)
 - [ETL Process](#etl-process)
 - [Prediction Module](#prediction-module)
 - [Sample Output](#sample-output)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
