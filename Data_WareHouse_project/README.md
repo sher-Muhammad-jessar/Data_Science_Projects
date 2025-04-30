@@ -95,7 +95,8 @@ The function \`predict_case_counts(disease_name='Flu')\`:
 
 Here is an example of the terminal output after running the disease prediction script:
 
-```bash
+   ```bash
+
 ✅ Connected to database successfully!
 📊 Predicting future disease cases using Linear Regression...
 
@@ -119,19 +120,4 @@ Cases│           🔵 Actual   🔶 Predicted     │
      │    .       .      🔶 🔶 🔶             │
      └─────────────────────────────────────────┘
            Jan   Feb  Mar  Apr  → Future Months
-...
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome!
-
-1. Fork the repo
-2. Create a branch (\`git checkout -b feature-x\`)
-3. Commit your changes
-4. Push and open a Pull Request
-
-
-
-> Built with ❤️ by Sher Muhammad — helping hospitals make data-driven decisions.
+'''bash
