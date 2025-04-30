@@ -43,20 +43,29 @@ This project is a complete ETL (Extract, Transform, Load) pipeline integrated wi
 ---
 
 ## 🔁 Data Flow
-
-\`\`\`text
-[Raw Data Sources]
-       ↓
-[Python ETL Script]
-       ↓
-[Transformed Data]
-       ↓
-[MySQL Data Warehouse (Star Schema)]
-       ↓
-[Prediction Module (Linear Regression)]
-       ↓
-[Predicted Disease Case Counts]
-\`\`\`
+                     ┌────────────────────────┐
+                     │     Source Data        │
+                     │  (MySQL + CSV file)    │
+                     └────────────┬───────────┘
+                                  │
+                                  ▼
+                      ┌────────────────────┐
+                      │  ETL Processing    │
+                      │(data loading +     │
+                      │ preprocessing)     │
+                      └────────────┬───────┘
+                                  │
+                                  ▼
+                      ┌────────────────────┐
+                      │ Machine Learning   │
+                      │ (Linear Regression)│
+                      └────────────┬───────┘
+                                  │
+                                  ▼
+                      ┌────────────────────┐
+                      │   Predictions      │
+                      │ + Visualization    │
+                      └────────────────────┘
 
 ---
 
