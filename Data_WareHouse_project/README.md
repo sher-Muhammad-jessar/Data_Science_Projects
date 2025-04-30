@@ -91,20 +91,25 @@ The function \`predict_case_counts(disease_name='Flu')\`:
 ---
 
 ## 🧾 Sample Output
--✅ Connected to database successfully!
--📊 Predicting future disease cases using Linear Regression...
+### 📈 Sample Output
 
--Enter Disease Name: Dengue
+Here is an example of the terminal output after running the disease prediction script:
 
--Predicted case counts for the next 6 months:
--2025-05: 135 cases
--2025-06: 145 cases
--2025-07: 154 cases
--2025-08: 162 cases
--2025-09: 170 cases
--2025-10: 178 cases
+```bash
+✅ Connected to database successfully!
+📊 Predicting future disease cases using Linear Regression...
 
--📉 Plot generated successfully!
+Enter Disease Name: Dengue
+
+Predicted case counts for the next 6 months:
+2025-05: 135 cases
+2025-06: 145 cases
+2025-07: 154 cases
+2025-08: 162 cases
+2025-09: 170 cases
+2025-10: 178 cases
+
+📉 Plot generated successfully!
 
 
 
