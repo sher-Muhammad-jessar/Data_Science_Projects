@@ -120,4 +120,16 @@ Cases│           🔵 Actual   🔶 Predicted     │
      │    .       .      🔶 🔶 🔶             │
      └─────────────────────────────────────────┘
            Jan   Feb  Mar  Apr  → Future Months
-'''bash
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome!
+
+1. Fork the repo
+2. Create a branch (\`git checkout -b feature-x\`)
+3. Commit your changes
+4. Push and open a Pull Request
+
+
+
+> Built with ❤️ by Sher Muhammad — helping hospitals make data-driven decisions.
