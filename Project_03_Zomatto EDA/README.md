@@ -44,21 +44,11 @@ Key cleaning steps included:
 
 All visuals were plotted using `matplotlib` and `seaborn`, with attention to label rotation, readability, and color clarity.
 
-## 📁 Project Structure
-├── Zomato_EDA.ipynb # Jupyter notebook with complete EDA & visualizations
-├── zomato.csv # Dataset 
-└── README.md # Project documentation
-
 
 ## 📌 Dataset Source
 
 📎 [Zomato Bangalore Restaurants Dataset – Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
-## 📷 Sample Visualizations
-
-<!-- You can add images like this after uploading to your GitHub repo -->
-<!-- ![Top Locations](images/top_locations.png) -->
-<!-- ![Cuisines Distribution](images/cuisines_chart.png) -->
 
 ## 🚀 How to Run
 
