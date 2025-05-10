@@ -41,6 +41,12 @@ The dataset includes the following columns:
 > You can replace or expand the dataset (`df`) as needed.
 
 ---
+## 📈 Example Output
+
+-Capping Study Hours to max 20.
+-Study Hours (Capped): 5.0 → Predicted Score: 52.34
+-Study Hours (Capped): 18.0 → Predicted Score: 86.45
+-Study Hours (Capped): 20.0 → Predicted Score: 88.77
 
 ## 🚀 How to Run
 
@@ -55,3 +61,4 @@ pip install numpy pandas matplotlib scikit-learn
 # Step 3: Run the script
 python predictor.py
 
+---
