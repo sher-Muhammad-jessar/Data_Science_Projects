@@ -100,7 +100,7 @@ Study Hours (Capped): 20.0 → Predicted Score: 88.77
 
 ## 🚀 How to Run
 
-
+<pre><code>
 # Step 1: Clone the repo
 git clone https://github.com/yourusername/student-performance-predictor.git
 cd student-performance-predictor
@@ -110,8 +110,10 @@ pip install numpy pandas matplotlib scikit-learn
 
 # Step 3: Run the script
 python predictor.py
+</code></pre>
 
 --- 
+
 ## 🙋‍♂️ Author
 
 **Sher Muhammad**  
