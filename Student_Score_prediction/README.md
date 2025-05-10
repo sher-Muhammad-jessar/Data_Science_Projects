@@ -41,6 +41,31 @@ The dataset includes the following columns:
 > You can replace or expand the dataset (`df`) as needed.
 
 ---
+## 🤖 Model
+
+This project uses a **Linear Regression** model from the `scikit-learn` library. Linear Regression is a supervised learning algorithm that finds the best-fitting straight line through the data points to predict a continuous target variable.
+
+In our case, it learns the relationship between the input features:
+
+- `StudyHours`
+- `Attendance`
+- `SleepHours`
+
+and the output label:
+
+- `Score` (student performance)
+
+The model is trained using the following code:
+
+<pre><code>from sklearn.linear_model import LinearRegression
+
+X = df[["StudyHours", "Attendance", "SleepHours"]]
+y = df["Score"]
+
+model = LinearRegression()
+model.fit(X, y)
+</code></pre>
+
 
 
 ## 📈 Example Output
@@ -75,7 +100,7 @@ Study Hours (Capped): 20.0 → Predicted Score: 88.77
 
 ## 🚀 How to Run
 
-```bash
+
 # Step 1: Clone the repo
 git clone https://github.com/yourusername/student-performance-predictor.git
 cd student-performance-predictor
@@ -86,4 +111,11 @@ pip install numpy pandas matplotlib scikit-learn
 # Step 3: Run the script
 python predictor.py
 
----
+--- 
+## 🙋‍♂️ Author
+
+**Sher Muhammad**  
+*DATA SCIENTIST*  
+
+📬 [LinkedIn](https://www.linkedin.com/in/sher-muhammad-jessar/)  
+
