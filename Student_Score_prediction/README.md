@@ -52,6 +52,26 @@ Study Hours (Capped): 18.0 → Predicted Score: 86.45
 Study Hours (Capped): 20.0 → Predicted Score: 88.77
 </code></pre>
 
+## 🧠 Future Improvements
+
+- Add more input features such as:
+  - Test anxiety levels
+  - Socioeconomic background
+  - Extracurricular involvement
+- Implement more advanced machine learning models:
+  - Random Forest
+  - Gradient Boosting
+  - Support Vector Regression
+- Add model performance metrics:
+  - Mean Absolute Error (MAE)
+  - Root Mean Square Error (RMSE)
+  - R² Score
+- Build a web interface using:
+  - Streamlit
+  - Flask
+- Enable real-time prediction with user inputs via GUI
+- Include data validation and user-friendly error messages
+
 
 ## 🚀 How to Run
 
