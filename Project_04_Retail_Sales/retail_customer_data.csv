@@ -1,0 +1,251 @@
+CustomerID,City,ProductCategory,Price,Quantity,TotalSale,PurchaseDate
+1771,Peshawar,Electronics,173.7,4.0,694.8,2024-01-01
+1170,Lahore,Clothing,412.16,4.0,1648.64,2024-08-30
+1857,Peshawar,Home Decor,445.68,2.0,891.36,2024-08-15
+1347,Lahore,Beauty,279.94,2.0,559.88,2024-08-12
+1460,Peshawar,Beauty,142.3,2.0,284.6,2024-06-28
+1121,Islamabad,Beauty,139.06,3.0,417.18,2024-03-19
+1187,Lahore,Grocery,277.02,1.0,277.02,2024-02-08
+1276,Lahore,Beauty,181.21,4.0,724.84,2024-04-27
+1392,Quetta,Clothing,27.5,3.0,82.5,2024-05-20
+1020,Islamabad,Home Decor,323.43,3.0,970.29,2024-01-13
+1566,Karachi,Electronics,,1.0,85.65,2024-06-26
+1856,Quetta,Grocery,55.06,4.0,220.24,2024-01-23
+1899,Karachi,Electronics,350.59,4.0,1402.36,2024-03-08
+1095,Quetta,Electronics,493.17,1.0,493.17,2024-02-16
+1831,Peshawar,Home Decor,323.0,4.0,1292.0,2024-01-10
+1747,Peshawar,Clothing,428.45,1.0,428.45,2024-04-22
+1766,Islamabad,Electronics,,2.0,,2024-03-14
+1768,Peshawar,Electronics,,4.0,1939.2,2024-03-06
+1742,Quetta,Clothing,293.91,1.0,293.91,2024-05-15
+1366,Quetta,Electronics,423.21,2.0,846.42,2024-06-11
+1871,Karachi,Grocery,90.78,2.0,181.56,2024-03-02
+1957,Lahore,Home Decor,414.1,1.0,414.1,2024-04-14
+1270,Islamabad,Beauty,453.16,1.0,453.16,2024-02-04
+1791,Karachi,Books,395.86,2.0,791.72,2024-03-29
+1744,Islamabad,Grocery,182.29,2.0,364.58,2024-02-06
+1729,Lahore,Grocery,378.5,2.0,757.0,2024-03-04
+1337,Peshawar,Clothing,337.9,3.0,1013.7,2024-03-29
+1027,Quetta,Beauty,419.97,3.0,1259.91,2024-02-15
+1339,Peshawar,Grocery,40.24,2.0,80.48,2024-02-07
+1387,Quetta,Beauty,404.38,3.0,1213.14,2024-05-16
+1573,Peshawar,Beauty,293.77,,587.54,2024-08-31
+1461,Karachi,Beauty,163.06,3.0,489.18,2024-06-13
+1455,Lahore,Beauty,387.3,2.0,774.6,2024-08-28
+1839,Karachi,Home Decor,10.62,2.0,21.24,2024-02-11
+1815,Karachi,Grocery,10.36,1.0,10.36,2024-01-30
+1376,Lahore,Home Decor,68.93,1.0,68.93,2024-08-23
+1391,Quetta,Beauty,407.34,2.0,814.68,2024-02-22
+1166,Lahore,Home Decor,275.08,1.0,275.08,2024-05-09
+1986,Quetta,Electronics,11.02,3.0,33.06,2024-07-03
+1600,Karachi,Home Decor,480.79,,480.79,2024-03-03
+1701,Islamabad,Electronics,288.85,1.0,288.85,2024-05-02
+1258,Peshawar,Grocery,61.21,4.0,244.84,2024-03-12
+1875,Lahore,Electronics,331.05,1.0,331.05,2024-05-13
+1995,Peshawar,Electronics,163.42,4.0,653.68,2024-08-16
+1821,Lahore,Electronics,465.72,3.0,1397.16,2024-02-09
+1955,Karachi,Clothing,16.52,4.0,66.08,2024-04-03
+1812,Islamabad,Electronics,381.95,1.0,381.95,2024-06-14
+1161,Quetta,Electronics,451.76,2.0,903.52,2024-03-12
+1040,Lahore,Books,178.7,4.0,714.8,2024-02-01
+1216,Peshawar,Grocery,249.74,3.0,,2024-02-09
+1929,Peshawar,Home Decor,32.87,4.0,,2024-08-31
+1573,Peshawar,Home Decor,299.09,3.0,897.27,2024-07-18
+1105,Quetta,Home Decor,389.32,3.0,1167.96,2024-02-04
+1191,Lahore,Clothing,212.7,,212.7,2024-03-10
+1619,Peshawar,Home Decor,237.0,1.0,237.0,2024-04-16
+1021,Quetta,Home Decor,27.77,4.0,111.08,2024-08-12
+1960,Islamabad,Books,26.36,2.0,52.72,2024-08-16
+1520,Peshawar,Home Decor,351.98,3.0,1055.94,2024-05-22
+1942,Islamabad,Clothing,316.33,3.0,948.99,2024-07-06
+1772,Quetta,Beauty,46.33,1.0,46.33,2024-06-27
+1645,Quetta,Clothing,485.11,2.0,970.22,2024-02-16
+1654,Quetta,Home Decor,455.91,,911.82,2024-04-24
+1647,Peshawar,Beauty,354.59,3.0,1063.77,2024-05-24
+1952,Lahore,Grocery,193.54,3.0,580.62,2024-01-23
+1491,Islamabad,Electronics,477.66,1.0,477.66,2024-06-27
+1001,Lahore,Grocery,,1.0,495.3,2024-06-10
+1779,Peshawar,Grocery,236.99,3.0,710.97,2024-07-10
+1343,Quetta,Beauty,41.02,4.0,164.08,2024-08-12
+1200,Quetta,Books,248.85,4.0,995.4,2024-07-18
+1313,Karachi,Electronics,62.46,4.0,249.84,2024-07-30
+1330,Islamabad,Electronics,,3.0,,2024-04-22
+1955,Lahore,Grocery,127.63,1.0,127.63,2024-06-02
+1489,Peshawar,Electronics,389.69,3.0,1169.07,2024-07-16
+1134,Islamabad,Grocery,60.04,,240.16,2024-06-27
+1972,Peshawar,Grocery,310.97,2.0,621.94,2024-04-29
+1372,Quetta,Clothing,349.51,4.0,1398.04,2024-08-17
+1975,Lahore,Beauty,,4.0,,2024-05-05
+1748,Lahore,Clothing,167.69,,335.38,2024-05-11
+1064,Islamabad,Electronics,311.02,3.0,933.06,2024-04-06
+1269,Islamabad,Grocery,448.28,1.0,448.28,2024-01-14
+1502,Islamabad,Grocery,326.36,4.0,1305.44,2024-06-05
+1052,Karachi,Home Decor,396.83,4.0,1587.32,2024-02-11
+1804,Lahore,Beauty,190.56,1.0,190.56,2024-08-18
+1270,Peshawar,Books,320.53,3.0,961.59,2024-01-06
+1201,Islamabad,Grocery,255.1,2.0,510.2,2024-01-11
+1040,Peshawar,Electronics,214.99,1.0,214.99,2024-03-07
+1406,Quetta,Books,407.83,2.0,815.66,2024-05-09
+1102,Islamabad,Home Decor,30.58,1.0,30.58,2024-02-05
+1553,Peshawar,Beauty,,3.0,691.65,2024-04-18
+1474,Quetta,Clothing,53.43,2.0,106.86,2024-01-01
+1805,Peshawar,Electronics,279.41,3.0,838.23,2024-02-13
+1565,Islamabad,Books,189.15,3.0,567.45,2024-08-14
+1860,Quetta,Beauty,,1.0,,2024-08-10
+1427,Quetta,Clothing,144.52,1.0,144.52,2024-02-18
+1505,Peshawar,Clothing,498.34,3.0,1495.02,2024-08-04
+1546,Peshawar,Books,485.09,2.0,970.18,2024-04-06
+1574,Lahore,Home Decor,234.53,4.0,938.12,2024-01-15
+1639,Lahore,Clothing,499.86,4.0,1999.44,2024-07-28
+1957,Quetta,Books,305.06,4.0,,2024-08-27
+1818,Lahore,Grocery,289.86,2.0,579.72,2024-06-20
+1156,Peshawar,Grocery,62.95,4.0,251.8,2024-06-27
+1524,Islamabad,Grocery,308.64,4.0,1234.56,2024-01-26
+1189,Lahore,Grocery,27.43,3.0,82.29,2024-04-09
+1087,Karachi,Electronics,,2.0,,2024-09-04
+1782,Karachi,Books,319.37,2.0,638.74,2024-05-18
+1614,Peshawar,Home Decor,398.62,4.0,1594.48,2024-01-04
+1243,Peshawar,Grocery,39.93,2.0,79.86,2024-09-04
+1345,Islamabad,Clothing,14.02,2.0,28.04,2024-07-21
+1738,Quetta,Electronics,446.12,4.0,1784.48,2024-06-03
+1555,Peshawar,Beauty,56.05,2.0,112.1,2024-04-02
+1252,Peshawar,Beauty,25.16,4.0,100.64,2024-01-20
+1058,Quetta,Beauty,248.35,3.0,745.05,2024-03-30
+1062,Islamabad,Beauty,46.99,1.0,46.99,2024-08-26
+1343,Karachi,Electronics,143.57,4.0,574.28,2024-01-26
+1020,Islamabad,Grocery,164.86,2.0,329.72,2024-03-15
+1502,Peshawar,Books,349.4,4.0,1397.6,2024-05-02
+1214,Peshawar,Grocery,43.84,2.0,87.68,2024-04-27
+1466,Islamabad,Electronics,222.29,1.0,222.29,2024-05-13
+1957,Peshawar,Beauty,254.05,3.0,762.15,2024-01-03
+1797,Karachi,Beauty,32.91,4.0,131.64,2024-05-20
+1663,Peshawar,Beauty,82.44,1.0,82.44,2024-07-03
+1627,Karachi,Books,337.49,4.0,1349.96,2024-05-12
+1686,Islamabad,Beauty,,4.0,,2024-08-22
+1921,Karachi,Electronics,50.15,3.0,150.45,2024-05-25
+1555,Karachi,Electronics,210.34,1.0,210.34,2024-05-19
+1769,Karachi,Books,331.8,2.0,663.6,2024-05-15
+1562,Karachi,Home Decor,428.96,2.0,857.92,2024-06-09
+1560,Karachi,Grocery,,4.0,,2024-02-16
+1071,Karachi,Home Decor,488.05,3.0,1464.15,2024-07-30
+1510,Peshawar,Grocery,239.37,2.0,478.74,2024-05-21
+1476,Quetta,Home Decor,429.91,3.0,1289.73,2024-03-04
+1358,Karachi,Books,337.43,4.0,1349.72,2024-05-06
+1540,Islamabad,Electronics,475.15,4.0,1900.6,2024-06-12
+1683,Quetta,Beauty,434.96,1.0,434.96,2024-06-12
+1251,Islamabad,Home Decor,475.55,1.0,475.55,2024-03-23
+1413,Lahore,Home Decor,370.26,2.0,740.52,2024-06-21
+1384,Peshawar,Beauty,228.02,4.0,,2024-07-22
+1838,Islamabad,Electronics,466.7,1.0,466.7,2024-01-27
+1406,Peshawar,Grocery,374.29,4.0,1497.16,2024-02-02
+1458,Islamabad,Beauty,481.51,3.0,1444.53,2024-04-03
+1389,Islamabad,Books,209.25,2.0,418.5,2024-03-16
+1674,Karachi,Home Decor,473.89,4.0,1895.56,2024-04-13
+1454,Karachi,Beauty,408.16,3.0,1224.48,2024-04-04
+1577,Quetta,Beauty,406.22,4.0,1624.88,2024-04-13
+1795,Karachi,Clothing,421.85,,1687.4,2024-03-30
+1724,Lahore,Clothing,226.98,4.0,907.92,2024-06-02
+1455,Lahore,Home Decor,50.19,3.0,150.57,2024-07-31
+1315,Quetta,Grocery,453.15,2.0,906.3,2024-04-10
+1690,Islamabad,Clothing,98.12,4.0,392.48,2024-07-02
+1130,Lahore,Clothing,128.87,1.0,128.87,2024-07-12
+1159,Quetta,Clothing,212.03,1.0,212.03,2024-02-12
+1838,Karachi,Home Decor,46.63,1.0,46.63,2024-03-03
+1160,Karachi,Books,380.13,3.0,1140.39,2024-03-08
+1748,Lahore,Clothing,85.5,1.0,85.5,2024-04-04
+1840,Karachi,Grocery,,4.0,927.36,2024-06-16
+1401,Karachi,Home Decor,376.68,3.0,1130.04,2024-02-29
+1128,Peshawar,Beauty,411.82,2.0,823.64,2024-06-01
+1484,Islamabad,Home Decor,470.41,4.0,1881.64,2024-05-17
+1856,Islamabad,Books,353.31,3.0,1059.93,2024-05-19
+1561,Islamabad,Clothing,92.83,3.0,278.49,2024-04-29
+1091,Quetta,Electronics,162.89,2.0,325.78,2024-09-03
+1217,Islamabad,Books,316.55,4.0,1266.2,2024-01-05
+1763,Lahore,Electronics,33.49,3.0,100.47,2024-03-12
+1556,Quetta,Grocery,79.46,2.0,158.92,2024-05-13
+1592,Quetta,Home Decor,188.47,1.0,188.47,2024-07-24
+1004,Lahore,Grocery,263.93,1.0,263.93,2024-01-10
+1612,Peshawar,Beauty,266.21,3.0,798.63,2024-07-01
+1387,Lahore,Home Decor,196.12,2.0,392.24,2024-03-05
+1242,Islamabad,Books,27.38,1.0,27.38,2024-05-27
+1726,Quetta,Electronics,475.28,3.0,1425.84,2024-01-05
+1308,Lahore,Electronics,358.72,3.0,,2024-07-21
+1435,Lahore,Electronics,268.02,2.0,536.04,2024-05-31
+1106,Quetta,Electronics,364.42,3.0,1093.26,2024-03-06
+1733,Karachi,Home Decor,270.37,3.0,811.11,2024-03-16
+1897,Lahore,Home Decor,343.09,3.0,,2024-05-31
+1273,Peshawar,Clothing,471.03,4.0,1884.12,2024-03-24
+1189,Peshawar,Clothing,425.58,1.0,425.58,2024-02-29
+1794,Peshawar,Electronics,451.07,2.0,902.14,2024-02-07
+1099,Quetta,Grocery,207.43,2.0,414.86,2024-06-27
+1461,Lahore,Home Decor,41.53,1.0,41.53,2024-07-14
+1891,Islamabad,Clothing,311.97,1.0,311.97,2024-08-03
+1098,Islamabad,Books,,1.0,,2024-06-03
+1240,Lahore,Clothing,43.48,2.0,86.96,2024-01-05
+1681,Karachi,Home Decor,90.73,3.0,272.19,2024-03-04
+1385,Peshawar,Clothing,307.8,,307.8,2024-05-12
+1702,Karachi,Home Decor,217.35,2.0,434.7,2024-05-29
+1206,Lahore,Beauty,144.08,1.0,144.08,2024-06-07
+1646,Quetta,Grocery,197.14,4.0,788.56,2024-05-09
+1230,Lahore,Grocery,281.41,4.0,1125.64,2024-05-13
+1508,Quetta,Home Decor,,4.0,253.96,2024-03-09
+1459,Karachi,Electronics,12.12,2.0,24.24,2024-01-19
+1080,Peshawar,Grocery,,1.0,402.72,2024-03-18
+1776,Peshawar,Electronics,54.89,2.0,109.78,2024-01-09
+1330,Lahore,Beauty,407.39,1.0,407.39,2024-07-08
+1719,Quetta,Beauty,150.14,4.0,600.56,2024-03-02
+1230,Peshawar,Grocery,472.66,4.0,,2024-04-13
+1472,Peshawar,Electronics,385.65,3.0,1156.95,2024-04-20
+1871,Peshawar,Home Decor,115.68,4.0,462.72,2024-06-05
+1014,Lahore,Clothing,475.45,2.0,950.9,2024-02-16
+1471,Karachi,Beauty,45.27,1.0,45.27,2024-08-12
+1795,Islamabad,Electronics,191.35,2.0,,2024-03-14
+1205,Islamabad,Grocery,368.86,4.0,1475.44,2024-06-26
+1871,Quetta,Electronics,376.55,1.0,376.55,2024-07-21
+1295,Karachi,Books,317.76,3.0,953.28,2024-03-18
+1418,Peshawar,Home Decor,493.07,2.0,986.14,2024-04-13
+1957,Lahore,Clothing,190.43,4.0,761.72,2024-03-17
+1698,Karachi,Grocery,433.7,4.0,1734.8,2024-03-09
+1931,Quetta,Electronics,144.61,4.0,578.44,2024-04-26
+1014,Islamabad,Home Decor,75.78,1.0,75.78,2024-05-04
+1013,Quetta,Grocery,101.92,2.0,203.84,2024-03-13
+1282,Peshawar,Grocery,477.26,,954.52,2024-04-09
+1224,Lahore,Beauty,,1.0,,2024-06-19
+1130,Peshawar,Books,294.96,4.0,1179.84,2024-05-30
+1727,Islamabad,Books,481.28,1.0,481.28,2024-08-09
+1504,Quetta,Beauty,18.12,4.0,72.48,2024-01-05
+1138,Karachi,Beauty,493.39,3.0,1480.17,2024-09-03
+1492,Quetta,Beauty,444.41,4.0,1777.64,2024-01-14
+1878,Peshawar,Beauty,377.43,2.0,754.86,2024-08-24
+1027,Quetta,Books,453.65,1.0,453.65,2024-05-14
+1725,Karachi,Grocery,,3.0,1445.4,2024-02-07
+1378,Lahore,Books,191.25,2.0,382.5,2024-02-08
+1563,Peshawar,Electronics,487.33,4.0,1949.32,2024-06-05
+1942,Lahore,Books,496.52,3.0,1489.56,2024-02-02
+1957,Islamabad,Books,433.04,2.0,866.08,2024-04-13
+1085,Karachi,Grocery,18.05,2.0,36.1,2024-01-11
+1288,Peshawar,Clothing,377.92,3.0,1133.76,2024-06-27
+1484,Islamabad,Beauty,158.22,2.0,316.44,2024-06-21
+1032,Karachi,Electronics,63.81,4.0,255.24,2024-01-15
+1035,Quetta,Books,364.23,,,2024-02-05
+1498,Quetta,Books,190.26,3.0,570.78,2024-07-12
+1379,Karachi,Electronics,223.56,2.0,447.12,2024-04-13
+1709,Karachi,Grocery,262.55,1.0,262.55,2024-04-15
+1700,Peshawar,Clothing,260.57,2.0,521.14,2024-08-07
+1681,Quetta,Beauty,493.7,2.0,987.4,2024-02-07
+1047,Karachi,Electronics,63.18,3.0,189.54,2024-04-20
+1642,Karachi,Grocery,,4.0,,2024-03-26
+1863,Karachi,Clothing,179.91,4.0,719.64,2024-06-05
+1661,Lahore,Home Decor,276.87,4.0,1107.48,2024-03-19
+1870,Lahore,Clothing,294.24,4.0,1176.96,2024-04-27
+1632,Peshawar,Electronics,,3.0,354.54,2024-03-08
+1775,Peshawar,Grocery,349.88,4.0,1399.52,2024-03-02
+1034,Karachi,Electronics,439.35,3.0,1318.05,2024-08-23
+1862,Karachi,Beauty,197.65,3.0,592.95,2024-02-29
+1397,Islamabad,Home Decor,315.64,3.0,946.92,2024-04-06
+1339,Peshawar,Clothing,140.34,1.0,140.34,2024-08-05
+1699,Karachi,Electronics,202.26,1.0,202.26,2024-02-06
+1564,Islamabad,Electronics,,4.0,,2024-05-22
+1475,Islamabad,Home Decor,219.76,2.0,439.52,2024-02-07
+1241,Quetta,Electronics,39.33,1.0,39.33,2024-01-17
+1230,Islamabad,Clothing,343.94,1.0,343.94,2024-06-03
