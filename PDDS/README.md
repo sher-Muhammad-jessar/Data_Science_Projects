@@ -24,17 +24,22 @@ An AI-powered mobile-only application that helps farmers detect crop diseases an
 - Dataset Source: Kaggle (PlantVillage or similar)
 
 ---
+## ⚙️ How It Works
 
-## 📁 Project Structure
-PDDS/
--│
--├── app.py # Streamlit app for image upload and prediction
--├── model/
--│ └── final_model.h5 # Trained CNN model
--├── dataset/
--│ └── (Kaggle crop disease images)
--├── utils/
--│ └── preprocessing.py # Image preprocessing and utilities
--├── README.md # Project documentation
--└── requirements.txt # Required Python packages
+1. **Preprocess input image** (resize, normalize).
+2. **Feed image into CNN model**.
+3. **Predict disease class**.
+4. **Show class label and prediction confidence**.
+5. **Recommend treatment based on class**.
+
 ---
+## 📌 Future Enhancements
+
+- 📱 **Convert the system into a fully functional mobile app** using Flutter or React Native.
+
+- 🛰️ **Add GPS-based crop monitoring** to provide localized disease insights and trends.
+
+- 🌐 **Enable offline-first capability** to ensure the model works without active internet, especially in remote farming areas.
+
+- 🛒 **Integrate with nearby pesticide suppliers** to recommend and connect farmers directly with available treatments.
+
