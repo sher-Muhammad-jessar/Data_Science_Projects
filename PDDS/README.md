@@ -26,5 +26,15 @@ An AI-powered mobile-only application that helps farmers detect crop diseases an
 ---
 
 ## 📁 Project Structure
-
+PDDS/
+│
+├── app.py # Streamlit app for image upload and prediction
+├── model/
+│ └── final_model.h5 # Trained CNN model
+├── dataset/
+│ └── (Kaggle crop disease images)
+├── utils/
+│ └── preprocessing.py # Image preprocessing and utilities
+├── README.md # Project documentation
+└── requirements.txt # Required Python packages
 
