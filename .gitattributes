@@ -1,3 +1,11 @@
+if filter=lfs diff=lfs merge=lfs -text
+you filter=lfs diff=lfs merge=lfs -text
+have filter=lfs diff=lfs merge=lfs -text
+big filter=lfs diff=lfs merge=lfs -text
+datasets filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+example filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
