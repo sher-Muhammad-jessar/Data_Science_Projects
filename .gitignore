@@ -23,4 +23,8 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Pickle files
 *.pkl
+
+# Ignore dataset folder
+PDDS/Plant vilage/
