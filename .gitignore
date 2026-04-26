@@ -28,3 +28,6 @@ Thumbs.db
 
 # Ignore dataset folder
 PDDS/Plant vilage/
+
+*.csv
+*.xlsx
